@@ -27,7 +27,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="30" alt="discord logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="30" alt="facebook logo"  />
+  <a href="https://www.facebook.com/mahmoud.ahmed.965/?locale=ar_AR">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="30" alt="facebook logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo"  />
   <img width="12" />
@@ -43,7 +44,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="instagram logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="linkedin logo"  />
+    <a href="https://www.linkedin.com/in/mahmoud-abu-elazem-43b3aa254/">
+      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="linkedin logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  />
   <img width="12" />
