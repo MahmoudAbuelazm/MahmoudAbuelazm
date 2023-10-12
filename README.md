@@ -48,7 +48,7 @@
 
 ###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoudAbuelazm&show_icons=true&locale=en" alt="MahmoudAbuelazm" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoudAbuelazm&show_icons=true&locale=en" alt="MahmoudAbuelazm" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAbuelazm&" alt="MahmoudAbuelazm" />
 </p>
 
