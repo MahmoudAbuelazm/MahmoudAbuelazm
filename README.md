@@ -30,12 +30,9 @@
 
 
 
-<div align="left">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MahmoudAbuelazm.MahmoudAbuelazm&"  />
   <img src="https://profile-counter.glitch.me/MahmoudAbuelazm/count.svg?"  />
-  
-</div>
-<div align="left">
   
 </div>
 
@@ -51,9 +48,8 @@
 
 ###
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoudAbuelazm&show_icons=true&locale=en" alt="MahmoudAbuelazm" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAbuelazm&" alt="MahmoudAbuelazm" />
+</p>
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoudAbuelazm&show_icons=true&locale=en" alt="MahmoudAbuelazm" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAbuelazm&" alt="MahmoudAbuelazm" /></p>
