@@ -33,7 +33,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/MahmoudAbuelazm/count.svg?"  />
 </div>
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MahmoudAbuelazm.MahmoudAbuelazm&"  />
+</div>
 ###
 <h3 align="left">🔥   My Stats :</h3>
 
@@ -47,21 +49,17 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MahmoudAbuelazm.MahmoudAbuelazm&"  />
-</div>
+
 
 
   
 
-###
 
 <div align="left">
 </div>
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MahmoudAbuelazm&label=Profile%20views&color=0e75b6&style=flat" alt="MahmoudAbuelazm" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoudAbuelazm&show_icons=true&locale=en" alt="MahmoudAbuelazm" /></p>
 
