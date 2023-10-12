@@ -32,9 +32,10 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/MahmoudAbuelazm/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MahmoudAbuelazm.MahmoudAbuelazm&"  />
 </div>
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MahmoudAbuelazm.MahmoudAbuelazm&"  />
+  
 </div>
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -50,15 +51,6 @@
 ###
 
 
-
-
-  
-
-
-<div align="left">
-</div>
-
-###
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoudAbuelazm&show_icons=true&locale=en" alt="MahmoudAbuelazm" /></p>
