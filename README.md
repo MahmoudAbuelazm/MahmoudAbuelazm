@@ -33,10 +33,10 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/MahmoudAbuelazm/count.svg?"  />
 </div>
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MahmoudAbuelazm.MahmoudAbuelazm&"  />
 </div>
-###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
