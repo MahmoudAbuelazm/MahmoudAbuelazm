@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%0D0069FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Always+learning+new+things;Junior+Flutter+Developer"></a>
 </p>
 
-## <picture><img src = "https://github.com/MahmoudAbuelazm/MahmoudAbuelazm/blob/master/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/MahmoudAbuelazm/MahmoudAbuelazm/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 
 <div align="center">
