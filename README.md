@@ -4,7 +4,7 @@
 </p>
 
 ## <picture><img src = "https://github.com/MahmoudAbuelazm/MahmoudAbuelazm/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<picture> <img align="right" src="https://github.com/Anwar-Rizk/Anwar-Rizk/blob/master/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Anwar-Rizk/Anwar-Rizk/blob/master/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
 <br>
 
