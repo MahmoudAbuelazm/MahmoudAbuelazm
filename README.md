@@ -4,6 +4,20 @@
 </p>
 
 ## <picture><img src = "https://github.com/MahmoudAbuelazm/MahmoudAbuelazm/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture> <img align="right" src="https://github.com/Anwar-Rizk/Anwar-Rizk/blob/master/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br>
+
+- :school: I am a `Junior` at [Faculty of Computers & Informatics at Suez Canal University](http://suez.edu.eg/ar/?page_id=7325&lang=en).
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+<!--
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
+- :boom: You can visit my website from [here]().
+-->
+<br>
 
 
 <div align="center">
