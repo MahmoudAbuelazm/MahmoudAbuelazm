@@ -31,7 +31,7 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats-mahmoud-ahmeds-projects-742326f6.vercel.app/api?username=MahmoudAbuelazm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats-mahmoud-ahmeds-projects-742326f6.vercel.app/api?username=MahmoudAbuelazm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&border=1&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudAbuelazm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"  height="150" alt="languages graph"  />
 </div>
 
@@ -48,7 +48,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MahmoudAbuelazm&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=MahmoudAbuelazm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 
