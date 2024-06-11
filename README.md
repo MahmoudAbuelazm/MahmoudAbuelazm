@@ -51,5 +51,8 @@
   
 </div>
 
-<!--## GitHub Trophies
 
+## GitHub Trophies
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=MahmoudAbuelazm&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Profile Trophies" />
+</p>
