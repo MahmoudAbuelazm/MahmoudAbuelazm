@@ -29,8 +29,8 @@
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats-mahmoud-ahmeds-projects-742326f6.vercel.app/api?username=MahmoudAbuelazm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&hide=contribs,issues&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=2&include_all_commits=true&show=prs_merged,prs_merged_percentage" height="180" alt="stats graph"  />
+  <a href="https://github-readme-stats-mahmoud-ahmeds-projects-742326f6.vercel.app/api?username=MahmoudAbuelazm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&hide=contribs,issues&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=2&include_all_commits=true&show=prs_merged,prs_merged_percentage" height="180" alt="Mahmoud Abuelazm's GitHub Stats">
+<img src="https://github-readme-stats-mahmoud-ahmeds-projects-742326f6.vercel.app/api?username=MahmoudAbuelazm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&hide=contribs,issues&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=2&include_all_commits=true&show=prs_merged,prs_merged_percentage" height="180" alt="Mahmoud Abuelazm's GitHub Stats"  />
 <img src="https://github-readme-stats-mahmoud-ahmeds-projects-742326f6.vercel.app/api/top-langs?username=MahmoudAbuelazm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2"  height="180"  alt="languages graph"  />
 </div>
 
