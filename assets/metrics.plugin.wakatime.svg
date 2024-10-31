@@ -61,7 +61,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">estigmam_client</span>
-                                <div class="bar" style="width: 30.96%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 30.951999999999998%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">39%</span>
                             </div>
                             <div class="entry">
@@ -71,7 +71,7 @@
                             </div>
                             <div class="entry">
                                 <span class="name">estigmam_owner_tripleader</span>
-                                <div class="bar" style="width: 7.872%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 7.864%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">10%</span>
                             </div>
                             <div class="entry">
@@ -91,7 +91,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Dart</span>
-                                <div class="bar" style="width: 74.392%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 74.4%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">93%</span>
                             </div>
                             <div class="entry">
