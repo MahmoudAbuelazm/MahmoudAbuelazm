@@ -18,7 +18,7 @@ jobs:
           user: MahmoudAbuelazm
           template: classic
           base: ""
-          config_timezone: Asia/Calcutta
+          # config_timezone: Asia/Calcutta
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
