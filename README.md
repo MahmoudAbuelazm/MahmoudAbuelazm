@@ -48,9 +48,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MahmoudAbuelazm.MahmoudAbuelazm&"  />
-  <img src="https://profile-counter.glitch.me/MahmoudAbuelazm/count.svg?"  />
-  
+  <img src="https://komarev.com/ghpvc/?username=MahmoudAbuelazm&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 ---
@@ -92,7 +90,7 @@
 
 ## GitHub Trophies
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=MahmoudAbuelazm&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Profile Trophies" />
+    <img src="https://trophy.ryglcloud.net/?username=MahmoudAbuelazm&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Profile Trophies" />
 </p>
 
 ## GitHub Contributions
